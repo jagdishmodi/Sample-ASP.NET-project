@@ -13,3 +13,4 @@ Steps to run this ASP.NET project
 
 3. Project must have multiple startup projects (Solution Properties -> Common Properties -> Multiple startup projects: Sample.Web and Sample.WebApi
 4. Run project
+5. Finish the task
